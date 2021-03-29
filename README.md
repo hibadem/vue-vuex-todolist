@@ -1,4 +1,4 @@
-# vue-cli-todolist
+# vue-vuex-todolist
 
 ## Project setup
 ```
